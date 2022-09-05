@@ -4,11 +4,11 @@ I'm Front-End Developer with a background in Human Resources. When I am not codi
 
 ## Projects I'm working on:
 
-- 🔄 Client Mockup Website            
+- ⏸️ Client Mockup Website            
 🥷🏾 Abode XD- HTML- CSS-JS
 - 🔲 100 Envelope Challenge(game)     
 🥷🏾 HTML,CSS,JS
-- 🔲 Build an Ecommerce store    
+- 🔄 Build an Ecommerce store    
 🥷🏾 MERN
 ## Here are some of my goals:
 
